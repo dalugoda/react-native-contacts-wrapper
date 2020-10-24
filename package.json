@@ -1,7 +1,7 @@
 {
   "name": "react-native-contacts-wrapper",
   "version": "0.2.4",
-  "description": "Phonebook contact wrapper for React Native"
+  "description": "Phonebook contact wrapper for React Native",
   "nativePackage": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
